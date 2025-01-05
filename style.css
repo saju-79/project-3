@@ -1,0 +1,9 @@
+table .a{
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    border: 2px solid red;
+}
+table tr th  {
+    /* border:2px solid rgb(0, 255, 76); */
+}
